@@ -11,7 +11,8 @@ HelloTrema started.
 class HelloTremaの関数startを以下のように変更した．
 回答にはself.classを用いた後to_sを用いてString型に変更した．
 
-``` def start(_args)
+``` 
+def start(_args)
   logger.info "#{self.class.to_s} started."
  end
   ...
