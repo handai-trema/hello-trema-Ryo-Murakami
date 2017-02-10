@@ -8,6 +8,7 @@ HelloTrema started.
 
 ##回答
 
+[hello_world.rb](https://github.com/handai-trema/hello-trema-Ryo-Murakami/blob/develop/lib/hello_world.rb)を以下のように変更した．
 class HelloTremaの関数startを以下のように変更した．
 回答にはself.classを用いた後to_sを用いてString型に変更した．
 
